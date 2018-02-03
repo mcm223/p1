@@ -1,6 +1,7 @@
 #container {
 	text-align:center;
-	padding: 0px;
+	width: 60%;
+	padding-left: 0px;
  }
 #bio {
 	margin-bottom: 30px;
