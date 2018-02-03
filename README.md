@@ -3,7 +3,7 @@
 + Production URL: <http://p1.mcm223.me>
 
 ## Outside resources
-TBD
+I am using the [Bootstrap CSS framework](https://getbootstrap.com/) to simplify the styling.
 
 
 ## Notes for instructor
