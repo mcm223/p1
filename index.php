@@ -14,11 +14,11 @@
 <body>
 <div class="container-fluid" id="container">
 	<h1 class="display-3">Matthew McGrath</h1>
-	<img src="" alt="Image of Matt">
+	<img src="images/me2.jpg" alt="Image of Matt" class="rounded-circle">
 	<h2 class="display-4">About Me</h2>
 	<div id="bio">
 	<p>
-		Some information about me.
+		Hi! My name is Matt -- I live in Seattle, Washington and currently work as a business analyst for Amazon Web Services. I'm a degree candidate for the IT ALM at Harvard Extension. Outside of work and school I play drums in a local country band, do some film photography, and obsess over getting the perfect espresso shot at home. I also recently got licensed as an amateur radio operator: my call sign is KI7TRI. While I have some programming experience, I need practice connecting services together into useful applications, so I'm looking forward to the class! 
 	</p>
 	</div>
 	<h2 class="display-4">Random Quote</h2>
