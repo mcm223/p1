@@ -1,4 +1,6 @@
 <?php
+
+# Array of quotes with some HTML to prettify the quote citations
 $quotes = [
 	'I love deadlines. I like the whooshing sound they make as they fly by.<footer class="blockquote-footer">Douglas Adams</footer>',
 	'If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.<footer class="blockquote-footer">Marcus Aurelius <cite title="Source Title">(Meditations)</cite></footer>',
@@ -7,6 +9,7 @@ $quotes = [
 	'It\'s a long way to the top if you want to rock \'n roll.<footer class="blockquote-footer">AC/DC</footer>'
 ];
 
+# Take an array and echo a random element
 function echoArray(array $arr){
 	echo $arr[array_rand($arr)];
 }

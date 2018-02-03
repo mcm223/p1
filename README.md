@@ -4,8 +4,5 @@
 
 ## Outside resources
 I am using the [Bootstrap CSS framework](https://getbootstrap.com/) to simplify the styling.
-
-
-## Notes for instructor
-TBD
+ 
 
