@@ -1,2 +1,11 @@
-# p1
-Project 1 for CSCI E-15
+# Project 1
++ By: Matthew McGrath
++ Production URL: <http://p1.mcm223.me>
+
+## Outside resources
+TBD
+
+
+## Notes for instructor
+TBD
+
