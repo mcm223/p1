@@ -18,7 +18,7 @@
 	<h2 class="display-4">About Me</h2>
 	<div id="bio">
 		<p>
-			 Hi! My name is Matt &mdash; I live in Seattle, Washington and currently work as a business analyst for Amazon Web Services. I'm a degree candidate for the IT ALM at Harvard Extension. Outside of work/school I play drums in a local country band, do some film photography, and obsess over getting the perfect espresso shot at home. I also recently got licensed as an amateur radio operator: my call sign is KI7TRI. While I have some programming experience, I need practice connecting services together into useful applications, so I'm looking forward to the class!
+			 Hi! My name is Matt &mdash; I live in Seattle, Washington and currently work as a business analyst for Amazon Web Services. I'm a degree candidate for the IT ALM at Harvard Extension. Outside of work/school I play drums in a local country band, do some film photography, and obsess over getting the perfect espresso shot at home. I also recently got licensed as an amateur radio operator: my call sign is KI7TRI. While I do have some programming experience, I need practice connecting services together into useful applications, so I'm looking forward to the class!
 		</p>
 	</div>
 	<h2 class="display-4">Random Quote</h2>
