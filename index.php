@@ -23,9 +23,7 @@
 	</div>
 	<h2 class="display-4">Random Quote</h2>
 	<blockquote class="blockquote text-left">
-		<p class="mb-0">
 			<?php echoArray($quotes); ?>
-		</p>
 	</blockquote>
 </div>
 </body>
